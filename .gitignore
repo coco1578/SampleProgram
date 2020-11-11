@@ -12,6 +12,7 @@ build/
 x64/
 x86/
 
+*.vs/
 *_i.c
 *_p.c
 *.ilk
